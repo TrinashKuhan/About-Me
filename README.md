@@ -7,6 +7,8 @@ I'm a Computer Science student at Universiti Teknologi Malaysia (UTM) who is bui
 I'm interested in understanding how software works, how systems communicate and how technology can be designed and secured. I'm using this GitHub profile to document my learning journey, develop practical skills and build projects along the way.
 
 
+
+
 About Me
 
 🎓 Education: Bachelor of Computer Science (Computer Networks & Security) , Universiti Teknologi Malaysia (UTM)
@@ -16,6 +18,8 @@ About Me
 🌱 Currently learning: Object-Oriented Programming, Database Systems, Discrete Mathematics, Computer Networking and Technology & Information System
 
 🎯 Goal: Build strong technical foundations and turn theoretical knowledge into practical projects
+
+
 
 
 Projects
