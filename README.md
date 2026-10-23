@@ -1,2 +1,3 @@
-# About-Me
-This is a repository about myself. 
+Hi, I'm Trinash Kuhan 👋
+
+Computer Science Student | Networks & Security
