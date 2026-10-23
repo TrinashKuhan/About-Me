@@ -8,8 +8,7 @@ I'm interested in understanding how software works, how systems communicate and 
 
 
 
-
-About Me
+**About Me**
 
 🎓 Education: Bachelor of Computer Science (Computer Networks & Security) , Universiti Teknologi Malaysia (UTM)
 
@@ -21,14 +20,13 @@ About Me
 
 
 
-
-Projects
+**Projects**
 
 I'm currently building my technical foundations and working towards developing practical projects.
 
 This section will grow as I complete projects and gain hands-on experience.
 
-Connect With Me
+**Connect With Me**
 
 Github: https://github.com/TrinashKuhan
 
