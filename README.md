@@ -10,8 +10,11 @@ I'm interested in understanding how software works, how systems communicate and 
 About Me
 
 🎓 Education: Bachelor of Computer Science (Computer Networks & Security) , Universiti Teknologi Malaysia (UTM)
+
 💻 Interests: Software development, Networking, Cybersecurity and Problem Solving
+
 🌱 Currently learning: Object-Oriented Programming, Database Systems, Discrete Mathematics, Computer Networking and Technology & Information System
+
 🎯 Goal: Build strong technical foundations and turn theoretical knowledge into practical projects
 
 
