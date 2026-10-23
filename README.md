@@ -19,6 +19,13 @@ I'm interested in understanding how software works, how systems communicate and 
 🎯 Goal: Build strong technical foundations and turn theoretical knowledge into practical projects
 
 
+**Programming Languages**
+
+- C++
+  
+- Python
+
+
 
 **Projects**
 
